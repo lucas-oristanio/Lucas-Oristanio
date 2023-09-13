@@ -1,17 +1,20 @@
-## Welcome to my Github profile!!
+<h1 align="center">Olá 👋, eu sou o Lucas Faes</h1>
+<h3 align="center">Estudante de ADS pela SPTECH - 1/4</h3>
 
-###  About me! ⬇
-<p>Olá! Meu nome é Lucas Oristanio Faes, tenho 18 anos e vivo em São Paulo! No meu tempo livre eu gosto... aah esqueci, eu sou programador não tenho tempo livre... Brincadeiras a parte, eu gosto de praticar esportes⚽ e no fim de semana relaxar com os amigos 🎉, também gosto de jogar 🎮, assistir filmes e séries 🍕, e é claro, eu amo tecnologia e programação! <p>
 
-<p>Hey! My name is Lucas Faes, I am 18 years old and I live in São Paulo, Brazil! On my free time I like... oh I forgot, I'm a programmer, I don't have free time... Jokes aside, I like to play sports ⚽ and relax with friends on the weekend 🎉, I also like to play games 🎮, I watch movies and series 🍕, And of course, I love technology and programming! <p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 
-### Academic Education! ⬇
-<p>Atualmente sou estudante do curso tecnólogo "Análise e Desenvolvimento de Sistemas" (ADS) pela SPTech. Conclusão prevista para 07/25</p>
-<p>Sou técnico em Desenvolvimento de Sistemas, formado pela ETEC Profº Camargo Aranha. Concluido em 07/22</p>
-<p>I am currently a student of the "Systems Analysis and Development" (ADS) course at SPTech. Completion scheduled for 07/25</p>
-<p>I am System Developer Technic, graduated by ETEC Profº Camargo Aranha.💻<p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucas-oristanio&show_icons=true&locale=en&layout=compact" alt="lucas-oristanio" /></p>
 
-  
-### Connect with me! ⬇
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucas-oristanio&show_icons=true&locale=en" alt="lucas-oristanio" /></p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LucasFaes-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasfaes/)](https://www.linkedin.com/in/lucasfaes/) 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/lucasfaes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucasfaes" height="30" width="40" /></a>
+</p>
