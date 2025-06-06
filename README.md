@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou o Lucas</h1>
-<h3 align="center">Estudante de ADS pela SPTECH - 3/4</h3>
+<h3 align="center">Estudante de ADS pela SPTECH - 4/4</h3>
 
 <div>
 <h3 align="left">Tools:</h3>
